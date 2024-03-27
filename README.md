@@ -1,0 +1,2 @@
+This project is a basic simple analysis project using EDA (Exploratory Data Analysis). At first, we preprocessed the data, removing/replacing any null values and then do label encoding. After this, we did our analysis using two important Python libraries i.e. matplotlib and seaborn. These two mentioned libraries are commonly used for data visualization. 
+The aim was to learn about how EDA for real-time application.
